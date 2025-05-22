@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\Experimeny10.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\Experimeny10\Repository\Experimeny10.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a1a087d-dac2-6212-775e-33ac7dc9d581</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>95c131b7-f88e-4f94-bf20-c2b65a40d5fb</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>
